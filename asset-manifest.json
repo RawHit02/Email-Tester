@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Email-Tester/static/css/main.053d01ff.css",
+    "main.js": "/Email-Tester/static/js/main.80c60871.js",
+    "static/media/email-marketing.png": "/Email-Tester/static/media/email-marketing.f88b535aa671b1f92f7a.png",
+    "index.html": "/Email-Tester/index.html",
+    "main.053d01ff.css.map": "/Email-Tester/static/css/main.053d01ff.css.map",
+    "main.80c60871.js.map": "/Email-Tester/static/js/main.80c60871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053d01ff.css",
+    "static/js/main.80c60871.js"
+  ]
+}
